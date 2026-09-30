@@ -67,7 +67,7 @@ const makeImages = (slug: string, primaryUrl: string, alt: string): ProductImage
   },
   {
     id: `${slug}-2`,
-    url: `https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80
+    url: 'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80',
     alt: `${alt} detail view`,
   },
 ];
